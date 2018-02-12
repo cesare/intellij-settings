@@ -3,6 +3,13 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta f6" />
     <keyboard-shortcut first-keystroke="meta alt right" />
